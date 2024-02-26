@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hello i m neha 
+=======
+hello neha
+hloooooooooooooooooooooooooooooooooooooooo
+>>>>>>> 162b54dbfb1cf620a212b585cc7d4e2492281148
+hi neha malik
